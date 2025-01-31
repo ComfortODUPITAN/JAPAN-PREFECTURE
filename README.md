@@ -9,22 +9,22 @@
 ## Key Insights 
 
 ### 1. Life Expectancy  
-   - Shiga leads with the highest life expectancy of **86 years**, followed by other regions maintaining comparable longevity.  
+   - Shiga leads with the highest life expectancy of 86 years, followed by other regions maintaining comparable longevity.  
    - This reflects the overall high standards of health and well-being in Japan.  
 
 ### 2. Salaries and Income
-   - Tokyo stands out with the highest salary per prefecture at **116.28%**, and an income per capita of **150.72%**, making it the economic hub of Japan.  
+   - Tokyo stands out with the highest salary per prefecture at 116.28%, and an income per capita of **150.72%**, making it the economic hub of Japan.  
    - Other notable regions include Kanagawa (106.33%) and Osaka (100.60%).  
 
 ### 3. Population and Density  
-   - Tokyo, as expected, has the **highest population and density** (35% of the total population density), indicating its centrality in Japan’s urban landscape.  
+   - Tokyo, as expected, has the highest population and density (35% of the total population density), indicating its centrality in Japan’s urban landscape.  
 
 ### 4. Top Professions and Education  
-   - Nursing in Kochi is the **most prominent profession**, with Kochi leading in healthcare-related jobs.  
+   - Nursing in Kochi is the most prominent profession, with Kochi leading in healthcare-related jobs.  
    - Education levels are fairly evenly distributed, with Tokyo hosting the best universities.  
 
 ### 5. Healthcare Infrastructure  
-   - Yamagata leads with the **highest number of hospitals (49)**, followed by Aomori and Iwate, indicating strong healthcare availability in certain regions.  
+   - Yamagata leads with the highest number of hospitals (49), followed by Aomori and Iwate, indicating strong healthcare availability in certain regions.  
    - Public hospitals dominate healthcare services in Yamagata, whereas psychiatric hospitals are distributed more evenly.  
 
 ## Conclusion 
